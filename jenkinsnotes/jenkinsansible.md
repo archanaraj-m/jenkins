@@ -48,7 +48,7 @@ Excercise
 
 2. Goto our local repo(local repo means what we cloned in my laptop i.e local repo)
    
-   * create a folder example i can create a folder jenkins in that i can create another folder spring go to that path in terminal with the help of 'cd' command cd ..->cd ..->cd jenkins->cd spring->git clone url(what we wnt the project url take from github)
+   * create a folder example i can create a folder jenkins in that i can create another folder spring go to that path in terminal with the help of 'cd' command cd ..->cd ..->cd jenkins->cd spring->git clone url(what we want the project url take from github)
    * next command cd dummyspring
    * git branch
    * in the main branch we didn't do any changes
@@ -57,7 +57,7 @@ Excercise
    * git checkout -b develop
    * next 'code .'
    * goto vsc(visual studio coce)
-   * create a file with the name 'jenkinsfile'
+   * create a file with the name 'Jenkinsfile'
    * in that write a pipeline
   [Preview](./jenkinsimages/jn5.png)
 
